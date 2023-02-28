@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1677611175410,
+  "index": "httpps://ThankedDeer.github.io/uuuuu/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "httpps://ThankedDeer.github.io/uuuuu/favicon.ico",
+        "httpps://ThankedDeer.github.io/uuuuu/index.html",
+        "httpps://ThankedDeer.github.io/uuuuu/main.b04b407c06e6e0d4.js",
+        "httpps://ThankedDeer.github.io/uuuuu/manifest.webmanifest",
+        "httpps://ThankedDeer.github.io/uuuuu/polyfills.108065691f25dceb.js",
+        "httpps://ThankedDeer.github.io/uuuuu/runtime.815c9189f2ec9746.js",
+        "httpps://ThankedDeer.github.io/uuuuu/styles.341ababb92ba8c08.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "httpps://ThankedDeer.github.io/uuuuu/assets/icons/icon-128x128.png",
+        "httpps://ThankedDeer.github.io/uuuuu/assets/icons/icon-144x144.png",
+        "httpps://ThankedDeer.github.io/uuuuu/assets/icons/icon-152x152.png",
+        "httpps://ThankedDeer.github.io/uuuuu/assets/icons/icon-192x192.png",
+        "httpps://ThankedDeer.github.io/uuuuu/assets/icons/icon-384x384.png",
+        "httpps://ThankedDeer.github.io/uuuuu/assets/icons/icon-512x512.png",
+        "httpps://ThankedDeer.github.io/uuuuu/assets/icons/icon-72x72.png",
+        "httpps://ThankedDeer.github.io/uuuuu/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "httpps://ThankedDeer.github.io/uuuuu/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "httpps://ThankedDeer.github.io/uuuuu/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "httpps://ThankedDeer.github.io/uuuuu/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "httpps://ThankedDeer.github.io/uuuuu/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "httpps://ThankedDeer.github.io/uuuuu/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "httpps://ThankedDeer.github.io/uuuuu/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "httpps://ThankedDeer.github.io/uuuuu/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "httpps://ThankedDeer.github.io/uuuuu/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "httpps://ThankedDeer.github.io/uuuuu/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "httpps://ThankedDeer.github.io/uuuuu/index.html": "6b8bcf93a72084fb12ab5835cc3f87bc0a262d39",
+    "httpps://ThankedDeer.github.io/uuuuu/main.b04b407c06e6e0d4.js": "61ea1ee1964a057d6fd924be5802c023a5b3baa2",
+    "httpps://ThankedDeer.github.io/uuuuu/manifest.webmanifest": "aa93484f1cb8ca90adf9f4678c902d9861ea4d4a",
+    "httpps://ThankedDeer.github.io/uuuuu/polyfills.108065691f25dceb.js": "1a14923b3d9d2774eb4d13478f056cadf924b436",
+    "httpps://ThankedDeer.github.io/uuuuu/runtime.815c9189f2ec9746.js": "62ae4a598be07c66b04db60b2868785945a57a19",
+    "httpps://ThankedDeer.github.io/uuuuu/styles.341ababb92ba8c08.css": "1500776c69c1fd5c8b97eeae1aa40322a03de8d4"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
